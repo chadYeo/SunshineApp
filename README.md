@@ -25,4 +25,8 @@ For help migrating an existing repo (fork or clone prior to 10/18/15), please ch
 ========
 For the original version, please go [here](https://github.com/udacity/Sunshine).
 
+<<<<<<< HEAD
 A changelog for the course can be found [here](https://docs.google.com/a/knowlabs.com/document/d/193xJb_OpcNCqgquMhxPrMh05IEYFXQqt0S6-6YK8gBw/pub).
+=======
+A changelog for the course can be found [here](https://docs.google.com/a/knowlabs.com/document/d/193xJb_OpcNCqgquMhxPrMh05IEYFXQqt0S6-6YK8gBw/pub)."# SunshineApp-V2" 
+>>>>>>> 4.02_start_code_for_lesson_4
